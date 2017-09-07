@@ -39,7 +39,7 @@ class App extends Component {
 						
 								<div className="App">
 								<div>
-															<Hand cards={values}/>
+								<Hand cards={values}/>
 								</div>
 								
 						</div>
